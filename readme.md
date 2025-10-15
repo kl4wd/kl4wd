@@ -23,8 +23,3 @@ Nicknamed **Swiss Army Knife** at Station F for my versatility and hands-on skil
 - Machine Learning  
 - Embedded Systems
 
----
-
-## GitHub Stats
-![Shaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shm0m&show_icons=true&theme=radical&count_private=true)  
-
