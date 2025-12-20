@@ -19,4 +19,4 @@ I don't just write code; I secure the entire pipeline. From **React** frontends 
 ---
 
 ### Github Stats
-![Shaïma's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME_GITHUB&show_icons=true&theme=tokyonight)
+![Shaïma's GitHub stats](https://github-readme-stats.vercel.app/api?username=shm0m&show_icons=true&theme=tokyonight)
