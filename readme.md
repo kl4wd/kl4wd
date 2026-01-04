@@ -1,44 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=whoami;Sha%C3%AFma+DEROUICH;Cybersecurity+%7C+DevOps+%7C+Systems;Security+by+design+%F0%9F%94%90" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=whoami;Shaïma+DEROUICH;Cybersecurity Student @ECE School Engineering" />
 
 </div>
 
-```bash
-$ neofetch
-```
+<div align="center">
 
-```
-OS: Linux / Windows
-Host: Cyber & Infra enjoyer
-Kernel: Systems • Networks • Security
-Shell: bash | python
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=whoami;Sha%C3%AFma+DEROUICH;Cybersecurity+Student+%40+ECE+Engineering+School" />
 
----
+</div>
 
 ## Skillset.load()
 
 ```bash
-[✔] Cybersécurité
-    ├─ Hardening Linux / Windows
-    ├─ Sécurité système & réseau
-    ├─ Analyse de vulnérabilités
-    └─ Vision offensive & défensive
+[✔] Cybersecurity
+    ├─ Linux / Windows hardening
+    ├─ System & network security
+    ├─ Vulnerability analysis
+    └─ Offensive & defensive mindset
 
 [✔] DevOps / Cloud
     ├─ Docker • Kubernetes
     ├─ CI/CD (GitHub Actions)
     ├─ Ansible • Vagrant
-    └─ VMware • IaC
+    └─ VMware • Infrastructure as Code
 
-[✔] Systèmes & Réseaux
-    ├─ Linux (admin)
+[✔] Systems & Networking
+    ├─ Linux (sysadmin)
     ├─ Windows Server
-    ├─ Wireshark • Protocoles
-    └─ Bases Cisco
+    ├─ Wireshark • Network protocols
+    └─ Cisco fundamentals
 
-[✔] Dev & Scripting
+[✔] Development & Scripting
     ├─ Python • Bash
     ├─ C / C++
     ├─ Java
@@ -48,21 +41,11 @@ Shell: bash | python
     ├─ Node.js (Express)
     ├─ React • Next.js
     ├─ Swagger / OpenAPI
-    └─ HTML • CSS • JS • PHP
+    └─ HTML • CSS • JavaScript • PHP
 ```
 
 ---
 
-## Philosophy.txt
-
-```txt
-- Clean > Fast
-- Secure by design, always
-- Comprendre avant d’automatiser
-- Zéro bullshit technique (sinon 0/20)
-```
-
----
 
 ## Status
 
@@ -73,7 +56,6 @@ $ uptime
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=shaima-derouich\&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kl4wd\&color=green)
 
 </div>
-
