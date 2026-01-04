@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=whoami;Sha%C3%AFma+DEROUICH;Cybersecurity+Student+%40+ECE+Engineering+School" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=Sha%C3%AFma+D;Cybersecurity+Student+%40+ECE+Engineering+School" />
 
 </div>
 
