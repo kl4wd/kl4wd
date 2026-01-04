@@ -1,32 +1,79 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=450&lines=Initiating+KLAWD+Protocol...;DevSecOps+Engineer+%40+ECE;Kernel+%26+Security+Enthusiast;The+%22Swiss+Army+Knife%22)
-
-<br/>
-
-![Laptop](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png) **System Online: root@kl4wd**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7AF79A&center=true&vCenter=true&width=650&lines=whoami;Sha%C3%AFma+DEROUICH;Cybersecurity+%7C+DevOps+%7C+Systems;Security+by+design+%F0%9F%94%90" />
 
 </div>
 
-###  `root@kl4wd:~$ whoami`
-
-```json
-{
-  "user": "Shaïma D.",
-  "alias": "kl4wd",
-  "role": "DevSecOps Engineer",
-  "location": "Paris, Station F",
-  "education": "ECE School of Engineering",
-  "status": "Building resilient systems"
-}
+```bash
+$ neofetch
 ```
 
-### `root@kl4wd:~$ cat mission_log.txt`
+```
+OS: Linux / Windows
+Host: Cyber & Infra enjoyer
+Kernel: Systems • Networks • Security
+Shell: bash | python
+```
 
-# I don't just write code; I secure the entire pipeline.
-# From React frontends to Kernel drivers.
+---
 
-./execute_tasks.sh --mode=pro
-> [OK] Automate Everything (CI/CD, IaC, SAST/DAST)
-> [OK] Deep Dive (Reverse Engineering, C/C++, Memory Mgmt)
-> [OK] Protect (Threat Intel, SOC, Incident Response)
+## Skillset.load()
+
+```bash
+[✔] Cybersécurité
+    ├─ Hardening Linux / Windows
+    ├─ Sécurité système & réseau
+    ├─ Analyse de vulnérabilités
+    └─ Vision offensive & défensive
+
+[✔] DevOps / Cloud
+    ├─ Docker • Kubernetes
+    ├─ CI/CD (GitHub Actions)
+    ├─ Ansible • Vagrant
+    └─ VMware • IaC
+
+[✔] Systèmes & Réseaux
+    ├─ Linux (admin)
+    ├─ Windows Server
+    ├─ Wireshark • Protocoles
+    └─ Bases Cisco
+
+[✔] Dev & Scripting
+    ├─ Python • Bash
+    ├─ C / C++
+    ├─ Java
+    └─ MATLAB
+
+[✔] Web / API
+    ├─ Node.js (Express)
+    ├─ React • Next.js
+    ├─ Swagger / OpenAPI
+    └─ HTML • CSS • JS • PHP
+```
+
+---
+
+## Philosophy.txt
+
+```txt
+- Clean > Fast
+- Secure by design, always
+- Comprendre avant d’automatiser
+- Zéro bullshit technique (sinon 0/20)
+```
+
+---
+
+## Status
+
+```bash
+$ uptime
+→ Learning, building, breaking, fixing.
+```
+
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=shaima-derouich\&color=green)
+
+</div>
+
